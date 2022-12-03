@@ -4,6 +4,8 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.png"
+import mock7 from "../img/mock7.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -95,40 +97,40 @@ export const info = {
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Bearded Buddies",
+            live: "https://www.beardedbuddies.net/",
+            source: "https://github.com/Traka-Dev/bearded-buddies-front-end-main",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Rebel Racoons",
+            live: "https://www.rebelracoons.com/",
+            source: "https://github.com/Traka-Dev",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Pixel Colors",
+            live: "https://mint.pixelcolors.io/",
+            source: "https://github.com/Traka-Dev",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "NFTIGZ",
+            live: "https://mint.nftigz.com/",
+            source: "https://github.com/Traka-Dev",
             image: mock5
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            title: "WP Plugin Sargapay",
+            live: "https://wordpress.org/plugins/sargapay/",
+            source: "https://github.com/sargatxet/WooCommerce-sargapay",
+            image: mock6
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
+            title: "Ingenio Digital México",
+            live: "https://www.ingeniodigitalmexico.com/",
+            source: "https://github.com/Traka-Dev",
+            image: mock7
         },
         {
             title: "Project 5",
