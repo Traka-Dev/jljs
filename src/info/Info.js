@@ -80,18 +80,18 @@ export const info = {
             emoji: '🎮'
         },
         {
-            label: 'cybersecurity',
+            label: 'Cybersecurity',
             emoji: '💻'
         },
         {
-            label: 'movies',
+            label: 'Movies',
             emoji: '🎥'
         }
     ],
     portfolio: [{
-            title: "Project 1",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Sargatxet",
+            live: "https://sargatxet.cloud/",
+            source: "https://github.com/Traka-Dev",
             image: mock1
         },
         {
@@ -111,6 +111,24 @@ export const info = {
             live: "https://paytonpierce.dev",
             source: "https://github.com/paytonjewell",
             image: mock4
+        },
+        {
+            title: "Project 5",
+            live: "https://paytonpierce.dev",
+            source: "https://github.com/paytonjewell",
+            image: mock5
+        },
+        {
+            title: "Project 5",
+            live: "https://paytonpierce.dev",
+            source: "https://github.com/paytonjewell",
+            image: mock5
+        },
+        {
+            title: "Project 5",
+            live: "https://paytonpierce.dev",
+            source: "https://github.com/paytonjewell",
+            image: mock5
         },
         {
             title: "Project 5",
